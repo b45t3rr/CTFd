@@ -75,9 +75,9 @@ flask-sqlalchemy==2.5.1
     #   flask-migrate
 freezegun==1.2.2
     # via -r requirements.in
-gevent==23.9.1
+gevent==21.8.0
     # via -r requirements.in
-greenlet=>3.0rc3
+greenlet==1.1.2
     # via
     #   gevent
     #   sqlalchemy
